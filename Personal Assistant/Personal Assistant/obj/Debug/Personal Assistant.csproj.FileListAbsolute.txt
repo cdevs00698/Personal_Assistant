@@ -1,0 +1,66 @@
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe.config
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.pdb
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.MainForm.resources
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.Properties.Resources.resources
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.GenerateResource.Cache
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.CoreCompileInputs.cache
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.exe
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.pdb
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database.mdf
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database_log.ldf
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\Interop.WMPLib.dll
+D:\My Project\Personal Assistant\Personal Assistant\bin\Debug\AxInterop.WMPLib.dll
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Interop.WMPLib.dll
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\AxInterop.WMPLib.dll
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.ResolveComReference.cache
+D:\My Project\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csprojResolveAssemblyReference.cache
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database.mdf
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database_log.ldf
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe.config
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.pdb
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\Interop.WMPLib.dll
+D:\My tutorial\Personal Assistant\Personal Assistant\bin\Debug\AxInterop.WMPLib.dll
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Interop.WMPLib.dll
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\AxInterop.WMPLib.dll
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.ResolveComReference.cache
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.MainForm.resources
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.Properties.Resources.resources
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.GenerateResource.Cache
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.CoreCompileInputs.cache
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.exe
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.pdb
+D:\My tutorial\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csprojResolveAssemblyReference.cache
+D:\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database.mdf
+D:\Personal Assistant\Personal Assistant\bin\Debug\App_Data\Database_log.ldf
+D:\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe.config
+D:\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe
+D:\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.pdb
+D:\Personal Assistant\Personal Assistant\bin\Debug\Interop.WMPLib.dll
+D:\Personal Assistant\Personal Assistant\bin\Debug\AxInterop.WMPLib.dll
+D:\Personal Assistant\Personal Assistant\obj\Debug\Interop.WMPLib.dll
+D:\Personal Assistant\Personal Assistant\obj\Debug\AxInterop.WMPLib.dll
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.ResolveComReference.cache
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.MainForm.resources
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.Properties.Resources.resources
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.GenerateResource.Cache
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.CoreCompileInputs.cache
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.exe
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.pdb
+D:\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csprojResolveAssemblyReference.cache
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe.config
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.exe
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\bin\Debug\Personal Assistant.pdb
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\bin\Debug\Interop.WMPLib.dll
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Interop.WMPLib.dll
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.ResolveComReference.cache
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.MainForm.resources
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal_Assistant.Properties.Resources.resources
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.GenerateResource.cache
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csproj.CoreCompileInputs.cache
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.exe
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.pdb
+C:\Users\Saleem Raza\source\repos\Personal Assistant\Personal Assistant\obj\Debug\Personal Assistant.csprojAssemblyReference.cache
